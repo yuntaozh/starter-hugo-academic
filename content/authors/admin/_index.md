@@ -4,13 +4,14 @@ role: Senior undergraduate at University of Michigan
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
+  - Program Synthesis
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
+    link: mailto:yuntao@umich.edu
+    display:
+      header: false
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/GeorgeCushen

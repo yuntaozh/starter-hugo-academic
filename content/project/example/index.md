@@ -1,13 +1,14 @@
 ---
 slides: example
 url_pdf: ""
+date: 2016-04-27T00:00:00.000Z
 summary: Change how you write SQL queries with program synthesis.
 url_video: ""
-date: 2016-04-27T00:00:00.000Z
+title: SQL Query Superoptimization
+featured: true
+tags: []
 external_link: ""
 url_slides: ""
-title: SQL Query Superoptimization
-tags: []
 links: []
 image:
   caption: Photo by rawpixel on Unsplash

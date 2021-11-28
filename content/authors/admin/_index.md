@@ -24,7 +24,7 @@ education:
     - course: BSc in Computer Science
       institution: University of Michigan
       year: 2022
-email: ""
+email: yuntao@umich.edu
 superuser: true
 highlight_name: true
 ---
